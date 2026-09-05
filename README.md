@@ -112,8 +112,3 @@ D:\projects\kneu-schedule-parser
 ```
 
 A synchronization interval of a few hours is usually sufficient.
-
-```
-
-```
-```
